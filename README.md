@@ -171,3 +171,13 @@ Basic auth, so it must sit behind HTTPS, and it has no login rate limiting.
 
 No license has been chosen yet, which means all rights are reserved by default. Add a `LICENSE`
 file before inviting reuse.
+
+## Showcase
+<img width="1920" height="1200" alt="Screenshot 2026-09-18 at 12 34 41 PM" src="https://github.com/user-attachments/assets/1c77b317-f9de-4203-88ae-f9ee51b73975" />
+<img width="1920" height="1200" alt="Screenshot 2026-09-18 at 12 34 48 PM" src="https://github.com/user-attachments/assets/547e8927-d459-4c05-ba69-f18e09ca95b8" />
+<img width="1920" height="1200" alt="Screenshot 2026-09-18 at 12 37 55 PM" src="https://github.com/user-attachments/assets/62c270b7-6086-4b74-b8c7-67980ad515e3" />
+<img width="1920" height="1200" alt="Screenshot 2026-09-18 at 12 38 52 PM" src="https://github.com/user-attachments/assets/5e4c6f4c-f935-4e4c-85af-987a2448aa37" />
+<img width="1920" height="1200" alt="Screenshot 2026-09-18 at 12 39 29 PM" src="https://github.com/user-attachments/assets/cbf819cc-660b-4ac5-80c8-03b97b6f7445" />
+<img width="1920" height="1200" alt="Screenshot 2026-09-18 at 12 38 59 PM" src="https://github.com/user-attachments/assets/6e75d80b-d1c7-4968-b9fb-fab8896a2ab1" />
+<img width="1920" height="1200" alt="Screenshot 2026-09-18 at 12 38 49 PM" src="https://github.com/user-attachments/assets/a22a4c52-f537-427c-8bff-e1ed957dcf7a" />
+<img width="1920" height="1200" alt="Screenshot 2026-09-18 at 12 38 03 PM" src="https://github.com/user-attachments/assets/1af6cc60-8ae7-4d89-9515-fc97982fc8c0" />
