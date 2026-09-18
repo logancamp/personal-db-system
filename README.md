@@ -9,7 +9,7 @@ web client.
 > [ROADMAP.md](ROADMAP.md).
 >
 > **About the history:** this repository is a clean snapshot of a project that was developed
-> privately. The earlier commit history was not carried over.
+> privately. The earlier commit history was not carried over. Project was originally architecture with a small group on a separate github account, we split into diverging projects early on and the old repo was discontinued. Given this, all code included in this project is mine and my own, other group members split off before any commits were actually pushed to the main branch for this project.
 
 ## What it does
 
