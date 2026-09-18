@@ -1,4 +1,4 @@
-# Personal Server
+# Agent Powered Personal DB System
 
 A self-hosted place to keep your own data (todos, notes, custom typed items, messages) and let an
 LLM assistant work with it through a limited set of tools. It is a Spring Boot API plus a React
