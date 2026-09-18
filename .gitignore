@@ -1,0 +1,20 @@
+# Build output and dependencies
+backend/build/
+backend/.gradle/
+backend/out/
+webapp/dist/
+webapp/node_modules/
+webapp/.tanstack/
+
+# Local secrets and config (never commit)
+backend/vault/dev.env
+.env
+.env.*
+!.env.example
+*.local
+
+# IDE and OS files
+.idea/
+.vscode/
+*.iml
+.DS_Store
